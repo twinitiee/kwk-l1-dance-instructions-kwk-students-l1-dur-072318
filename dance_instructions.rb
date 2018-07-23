@@ -14,4 +14,7 @@ def gangnam style dance
   Step 10. Right, Left, Right and Right
   Step 11. Holding your arms out in front of you, straight and at chest level 
   Step 12. Cross your right wrist over your left and hold them together
-  Step 13. Lift
+  Step 13. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song, eight times 
+  Step 14. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left
+  Step 15. Lift your right arm up and point right elbow diagonally to the right
+  Step 16. 
