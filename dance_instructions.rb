@@ -27,4 +27,8 @@ end
 def bob the reins
   1. holding your arms out in front of you, straight and at the chest level
   2. cross your right wrist over your left and hold them together
-  3. lift your arms 
+  3. lift your arms and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times.
+end 
+
+def lasso
+  1. 
