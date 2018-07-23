@@ -32,4 +32,5 @@ end
 
 def lasso
   1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
-  2. 
+  2. Lift right arm up and point right elbow diagonally to the right.
+  3 
