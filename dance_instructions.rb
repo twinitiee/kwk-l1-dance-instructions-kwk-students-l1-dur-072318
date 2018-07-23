@@ -15,4 +15,16 @@ end
 def skip step left 
   1. Lower left front to ground
   2. Bounce left foot back up slightly, kicking it a few inches back
-  3. Left, Right, 
+  3. Left, Right, left, and left
+end
+
+def skip step Right
+  1. lower right foot to the ground
+  2. bounce right foot back up slightly, kicking it a few inches back
+  3. Right, left, right, and right 
+end
+
+def bob the reins
+  1. holding your arms out in front of you, straight and at the chest level
+  2. cross your right wrist over your left and hold them together
+  3. lift your arms 
