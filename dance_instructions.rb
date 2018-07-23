@@ -8,8 +8,7 @@ end
 
 def base footwork
   1. Lift right foot
-
-2. Return right foot to the ground
+  2. Return right foot to the ground
 
 3. Finishing with a **small skip-step** backward
 end
