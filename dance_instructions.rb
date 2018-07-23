@@ -17,4 +17,6 @@ def gangnam style dance
   Step 13. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song, eight times 
   Step 14. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left
   Step 15. Lift your right arm up and point right elbow diagonally to the right
-  Step 16. 
+  Step 16. Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso, eight times
+  Step 17. Be cool, be snazzy
+end 
